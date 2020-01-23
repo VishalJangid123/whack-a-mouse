@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1ba015a79d4c22c49825ce0bb66aa60e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Comic Neue Angular
+  fontNames:
+  - Comic Neue Angular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8e0aef04426ca0a45a5177c6f1b4aa53, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
